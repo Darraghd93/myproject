@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  type: 
+  poster: MyString
+  description: MyText
+  duration: 1
+  venue_id: MyString
+
+two:
+  name: MyString
+  type: 
+  poster: MyString
+  description: MyText
+  duration: 1
+  venue_id: MyString

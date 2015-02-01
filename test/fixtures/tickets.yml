@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  price: 1.5
+  seating: false
+  type: 
+  event_id: MyString
+  user_id: MyString
+  string: MyString
+
+two:
+  price: 1.5
+  seating: false
+  type: 
+  event_id: MyString
+  user_id: MyString
+  string: MyString
